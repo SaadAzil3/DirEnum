@@ -47,11 +47,7 @@ python3 dir_enum.py http://example.com -w /path/to/wordlist.txt -x php html js -
 ---
 
 ## Preview
-
-```
-[+] URL Found : http://example.com/admin -->> Status Code : 200
-[*] Progress: 103/1000 (10.3%) - Elapsed Time: 12s - Errors : 2
-```
+![Alt text](assets/video.mp4)
 
 ---
 
