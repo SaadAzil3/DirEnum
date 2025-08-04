@@ -11,6 +11,13 @@
 
 ---
 
+## Dowmload The Project
+
+```bash
+git clone https://github.com/SaadAzil3/directory-brute-force.git
+cd directory-brute-force
+```
+
 ## Requirements
 
 You can install the required modules using:
