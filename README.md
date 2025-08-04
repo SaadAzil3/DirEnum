@@ -1,10 +1,6 @@
 # DirEnum – A Simple Multi-threaded Web Directory & File Fuzzer
 
 `DirEnum` is a fast and lightweight web directory and file brute-forcing tool. It uses multiple threads to quickly test for existing directories and files on a given web server using a wordlist.
-
-![Help Menu](assets/image1.png)
-
-![Running The Script](assets/image2.png)
 ---
 
 ## Features
