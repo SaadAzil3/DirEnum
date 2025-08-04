@@ -47,7 +47,7 @@ python3 dir_enum.py http://example.com -w /path/to/wordlist.txt -x php html js -
 ---
 
 ## Preview
-![Alt text](assets/video.mp4)
+![Video](assets/video.mp4)
 
 ---
 
