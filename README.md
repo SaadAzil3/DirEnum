@@ -14,8 +14,8 @@
 ## Dowmload The Project
 
 ```bash
-git clone https://github.com/SaadAzil3/directory-brute-force.git
-cd directory-brute-force
+git clone https://github.com/SaadAzil3/DirEnum.git
+cd DirEnum
 ```
 
 ## Requirements
